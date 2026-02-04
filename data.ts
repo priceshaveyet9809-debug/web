@@ -10,6 +10,7 @@ export const LONG_FORM_VIDEOS: VideoItem[] = [
   { id: '2', title: 'Manhattan Penthouse Showcase', thumbnail: 'https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&q=80', youtubeId: 'M7J4Wj2V1Y0', type: 'long' },
   { id: '3', title: 'Malibu Beachfront Property', thumbnail: 'https://images.unsplash.com/photo-1512915922686-57c11f9ad6b3?w=800&q=80', youtubeId: 'Xg9f3X6Yy9M', type: 'long' },
   { id: '4', title: 'Modern Swiss Villa', thumbnail: 'https://images.unsplash.com/photo-1600585154340-be6191ecdb50?w=800&q=80', youtubeId: 'S1_S3aM3tQE', type: 'long' },
+  { id: '5', title: '202 4 Stuart Crescent, Drummoyne', thumbnail: 'https://img.youtube.com/vi/pqL7EMhnjKg/hqdefault.jpg', youtubeId: 'pqL7EMhnjKg', type: 'long' },
 ];
 
 export const SHORT_FORM_VIDEOS: VideoItem[] = [
