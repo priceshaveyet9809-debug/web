@@ -6,7 +6,7 @@ import { VideoItem, PackageItem } from './types';
  */
 
 export const LONG_FORM_VIDEOS: VideoItem[] = [
-  { id: '1', title: 'Bel Air Estate Tour', thumbnail: 'https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800&q=80', youtubeId: 'ysz5S6PUM-U', type: 'long' },
+  { id: '1', title: 'This is the symbol of luxury', thumbnail: 'https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800&q=80', youtubeId: 'cu17V4nZK-c', type: 'long' },
   { id: '2', title: 'Manhattan Penthouse Showcase', thumbnail: 'https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&q=80', youtubeId: 'M7J4Wj2V1Y0', type: 'long' },
   { id: '3', title: 'Malibu Beachfront Property', thumbnail: 'https://images.unsplash.com/photo-1512915922686-57c11f9ad6b3?w=800&q=80', youtubeId: 'Xg9f3X6Yy9M', type: 'long' },
   { id: '4', title: 'Modern Swiss Villa', thumbnail: 'https://images.unsplash.com/photo-1600585154340-be6191ecdb50?w=800&q=80', youtubeId: 'S1_S3aM3tQE', type: 'long' },
